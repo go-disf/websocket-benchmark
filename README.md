@@ -5,8 +5,6 @@ WebSocket-benchmark is a WebSocket benchmark tool, similar to the HTTP benchmark
 
 ## Install
 
-With a [correctly configured](https://golang.org/doc/install#testing) Go toolchain:
-
 ```sh
 go install go-disf/websocket-benchmark
 ```
